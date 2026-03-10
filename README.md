@@ -1,2 +1,2 @@
-# Tugas-1-OOP
+# Tugas-OOP
 tugas 1 oop class object
